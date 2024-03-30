@@ -22,3 +22,14 @@
 | [Day18](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2018/18_employees_who_attended_all_events.sql) | Find out the employees who attended all company events | COUNT along with DISTINCT |
 | [Day19](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2019/19_delayed_order_free_pizzas.sql) | Identify the percentage of delayed orders for each month and the total no of free pizzas given each month | FORMAT ┃ WINDOW FUNCTION [ SUM ] |
 | [Day20](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2020/20_countries_median_age.sql) | Find the median ages of countries | WINDOW FUNCTION [  ROW_NUMBER, COUNT ] ┃ CAST |
+| [Day21](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2021/21_popular_posts.sql) | Calculate total time that each post was viewed by users | DATEDIFF ┃ SUBQUERY |
+| [Day22](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2022/22_IPL_winning_streak.sql) | Identify the maximum winning streak for each IPL team| WINDOW FUNCTION [  ROW_NUMBER, COUNT ] ┃ ISNULL |
+| [Day23](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2023/23_passengers_in_each_bus.sql) | Report the number of users that used each bus | ROW_NUMBER ┃ UNION ALL |
+| [Day24](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2024/24_find_valid_emails.sql) | Find valid emails | REGEX  ┃ CHARINDEX ┃ REVERSE |
+| [Day25](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2025/25_Apple_products.sql) |  Products that always start with ‘Apple’  | TRIM ┃ SUM USING CASE WHEN |
+| [Day26](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2026/26_lowest_token_number.sql) | Return the lowest token number which is unique to a customer | TOP N ┃ COUNT(DISTINCT) |
+| [Day27](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2027/27_leave_approver.sql) | Determine if the vacations applied by each employee can be approved or not based on the available leave balance | RECURSIVE CTE ┃ DATENAME ┃ DATEADD ┃ ROW_NUMBER |
+| [Day28](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2028/28_find_length.sql) | Return the lowest token number which is unique to a customer | STRING_AGG ┃ STRING_SPLIT ┃ CROSS APPLY |
+| [Day29](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2029/29_login_duration.sql) | Generate a report representing the different periods (in minutes) when the user was logged in | FIRST_VALUE ┃ LAST_VALUE ┃ DATEDIFF|
+| [Day30](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2029/29_login_duration.sql) |  | |
+
