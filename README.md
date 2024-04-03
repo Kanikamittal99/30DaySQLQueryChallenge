@@ -1,10 +1,21 @@
-#  30 Days SQL Query Challenge
+# 30 Days SQL Query Challenge 👩‍💻
 
 This amazing series of Easy to Advanced SQL concepts is curated by [Thoufiq Mohammed](https://www.youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn). It not only offers us a chance to practice SQL concepts but also improves logical thinking.
 
-Check out my solution to these problems below.
+Check out my solution to these problems below ⬇️
 
-## Table of contents
+
+## 📝Summary
+<p align="left">
+    <img src="https://github.com/Kanikamittal99/30DaySQLQueryChallenge/assets/32505627/c63639c0-5b84-4d61-a6c7-cdc7899a3efc" width="300" height="300"/> 
+</p>
+
+<p align="left">
+    <img src="https://github.com/Kanikamittal99/30DaySQLQueryChallenge/assets/32505627/e97db657-d849-44e9-b130-f1f0930376f5" width="300" height="300"/> 
+</p>
+
+
+## 📚 Table of contents
 | Days | Short Description | Key Concepts Used | 
 |---|---|---|
 | [Day1](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2001/1_remove_redundant_pairs.sql) | Remove redundant pairs | CONCAT ┃ ROW_NUMBER ┃ MULTIPLE CTE |
