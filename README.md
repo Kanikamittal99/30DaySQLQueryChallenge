@@ -1,5 +1,10 @@
 #  30 Days SQL Query Challenge
 
+This amazing series of Easy to Advanced SQL concepts is curated by [Thoufiq Mohammed](https://www.youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn). It not only offers us a chance to practice SQL concepts but also improves logical thinking.
+
+Check out my solution to these problems below.
+
+## Table of contents
 | Days | Short Description | Key Concepts Used | 
 |---|---|---|
 | [Day1](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2001/1_remove_redundant_pairs.sql) | Remove redundant pairs | CONCAT ┃ ROW_NUMBER ┃ MULTIPLE CTE |
@@ -31,5 +36,5 @@
 | [Day27](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2027/27_leave_approver.sql) | Determine if the vacations applied by each employee can be approved or not based on the available leave balance | RECURSIVE CTE ┃ DATENAME ┃ DATEADD ┃ ROW_NUMBER |
 | [Day28](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2028/28_find_length.sql) | Return the lowest token number which is unique to a customer | STRING_AGG ┃ STRING_SPLIT ┃ CROSS APPLY |
 | [Day29](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2029/29_login_duration.sql) | Generate a report representing the different periods (in minutes) when the user was logged in | FIRST_VALUE ┃ LAST_VALUE ┃ DATEDIFF|
-| [Day30](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2029/29_login_duration.sql) |  | |
+| [Day30](https://github.com/Kanikamittal99/30DaySQLQueryChallenge/blob/main/Day%2030/30_generate_student_report.sql) | Generate student Report (given 3 tables) | SYS.COLUMNS ┃ CROSS APPLY ┃ UNPIVOT |
 
